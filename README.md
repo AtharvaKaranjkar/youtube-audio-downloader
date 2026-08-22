@@ -42,18 +42,3 @@ audio gets saved to your Downloads folder automatically. That's it.
 - **App downloads a video instead of just audio** → Make sure "Fast mode"
   is ticked in the app, and that you have the latest version of this script.
 
-If you're still stuck, open an Issue on this GitHub repo describing exactly
-what happened — copy-paste any error message you see.
-
----
-
-## A note on responsible use
-
-Only download audio you actually have the right to save — your own
-recordings, royalty-free tracks, or content a creator has explicitly made
-downloadable. Downloading copyrighted material without permission can
-violate YouTube's Terms of Service and copyright law where you live.
-
-## License
-
-MIT — see [LICENSE](LICENSE). Free to use, modify, and share.
